@@ -1,0 +1,22 @@
+#one{
+    background-color: #f8aa44;
+    
+}
+#one:hover{
+    
+    background-color: bisque;
+
+}
+#two{
+
+    background-image: url(one.jpg);
+    filter: blur(8px);
+    filter: blur(8px);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg
+{
+    background-image: url(one.jpg);
+}
